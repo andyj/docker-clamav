@@ -4,6 +4,8 @@
 
 ![ClamAV latest.stable](https://img.shields.io/badge/ClamAV-latest.stable-brightgreen.svg?style=flat-square)
 
+[![DockerHub Badge](http://dockeri.co/image/andyjarrett/docker-clamav)](https://hub.docker.com/r/andyjarrett/docker-clamav/)
+
 ## About
 Dockerized open source antivirus daemons for use with 
 - file sharing containers like [ownCloud](https://hub.docker.com/_/owncloud/) or 
